@@ -5,3 +5,4 @@
 - Expo
 - [Native Base](https://nativebase.io/)
 - [Phosphor icons](https://phosphoricons.com/)
+- [React Navigation](https://reactnavigation.org/)
